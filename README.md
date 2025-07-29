@@ -1,1 +1,1 @@
-# ayup-data-science
+# ayup
